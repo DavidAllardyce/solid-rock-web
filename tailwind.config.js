@@ -6,7 +6,9 @@ export default {
       sans: ['Veranda', 'sans-serif'],
       serif: ['Georgia', 'serif'],
     },
-    extend: {},
+    extend: {
+      
+    },
   },
   plugins: [],
 }

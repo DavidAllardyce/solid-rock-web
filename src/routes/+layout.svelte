@@ -3,7 +3,7 @@
   import "../app.css";
 </script>
   
-  <nav class="flex items-center justify-between flex-wrap bg-white-500 p-6">
+  <nav class="flex items-center justify-between flex-wrap bg-white-500 py-4 px-6">
     <div class="flex items-center flex-shrink-0  mr-6">
       <img class="fill-current h-8 w-auto mr-2" src="logo-350x68-high-res.png" alt="solid-rock-logo" />
     </div>
